@@ -1,8 +1,8 @@
 # Проект: Путешествие по России
 
 ### Используемые технологии
-* HTML (grid, flexbox)
-* CSS
+* HTML
+* CSS (grid, flexbox)
 * Figma
 
 
