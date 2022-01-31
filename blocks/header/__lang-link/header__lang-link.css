@@ -8,7 +8,7 @@
 }
 
 .header__lang-link:hover {
-  box-shadow: 0 1px 0 0 white;
+  opacity: .8;
 }
 
 @media (max-width: 767px) {
