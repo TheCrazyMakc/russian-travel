@@ -1,4 +1,4 @@
-.info__title {
+.intro__title {
   margin: 0 0 33px;
   font-size: 54px;
   line-height: 58px;
@@ -7,7 +7,7 @@
 }
 
 @media (max-width: 425px) {
-  .info__title {
+  .intro__title {
     max-width: 84%;
     font-size: 32px;
     line-height: 35px;

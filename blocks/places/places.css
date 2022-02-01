@@ -14,3 +14,9 @@
     max-width: calc(100% - 48px);
   }
 }
+
+@media (max-width: 425px) {
+  .places {
+    margin: 0 auto 66px;
+  }
+}
